@@ -7,4 +7,3 @@ With the help of repl.py you can cancel the created transaction. The commission 
 
 The scripts work in many ERC-like networks
 
-Translated with DeepL.com (free version)
